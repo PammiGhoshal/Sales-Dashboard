@@ -8,6 +8,8 @@ An interactive sales dashboard built in Microsoft Excel to analyze performance, 
 - Customer growth tracking  
 - Top 5 profit-generating customers  
 - Monthly sales insights
+- ## Dashboard Preview
+![Dashboard Screenshot](SalesDashboard.png)
 - ## Tools & Technologies
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - ## Key Insights
